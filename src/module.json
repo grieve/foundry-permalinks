@@ -13,5 +13,8 @@
   "compatibility": {
     "minimum": "10",
     "verified": "11"
-  }
+  },
+  "url": "https://github.com/grieve/foundry-permalinks",
+  "manifest": "https://raw.githubusercontent.com/grieve/foundry-permalinks/master/src/module.json",
+  "download": "https://raw.githubusercontent.com/grieve/foundry-permalinks/v1.1.2/dist/foundry-permalinks-v1.1.2.zip"
 }
