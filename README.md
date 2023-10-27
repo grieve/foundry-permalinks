@@ -1,6 +1,6 @@
 # FoundryVTT Permalinks
 
-[Manifest URL](https://raw.githubusercontent.com/numinit/foundry-permalinks/master/src/module.json)
+[Manifest URL](https://raw.githubusercontent.com/grieve/foundry-permalinks/master/src/module.json)
 
 **TL;DR:** When you open a window that can have a permalink generated, the window's URL
 is replaced with the link. Clicking the "Copy document id" link (top left of windows)
