@@ -3,9 +3,7 @@
 	"title": "Foundry Permalinks",
 	"description": "Adds permalinks to dialogs in Foundry.",
 	"version": "1.1.2",
-	"authors": [{
-		"name": "numinit"
-	}],
+	"author": "numinit",
 	"scripts": ["bundle.js"],
 	"styles": [
 		"foundry-permalinks.css"
